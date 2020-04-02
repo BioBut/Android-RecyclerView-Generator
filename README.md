@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/akashpate1/Android-RecyclerView-Generator/master/images/logo.png "Logo Title Text 1")
 # Android Recycler View Generator
 
 A web based tool to generate android recycler view code in java. This tool generates A Model to be used in recycler view, Recycler View Adapter and Basic Item Layout.
